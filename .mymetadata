@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="scmgit"
+  id="myeclipse.1452135871201"
+  context-root="/scmgit"
+  j2ee-spec="5.0"
+  archive="scmgit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
